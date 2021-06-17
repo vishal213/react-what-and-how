@@ -1,0 +1,9 @@
+The objective of this chapter is to briefly introduce the field of Web Development. We explore following:
+1. Overview of Web Architecture (Server and Browser)
+2. HTML, CSS and Javascript
+3. Problems with traditional way of development
+4. Focusing on JS to create SPA
+5. Problems with SPA in vanilla JS
+6. Simplifying JS development: Stop interacting with DOM!
+7. Introducing React(react, react-dom, JSX): Creating SPA with JS without interacting with DOM
+

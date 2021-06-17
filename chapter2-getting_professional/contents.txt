@@ -1,0 +1,14 @@
+The objective of this chapter is to introduce basic concepts of React.
+Assumption: Reader understands what React is and what role it plays in Web development
+--> Recap
+--> Setting up the dev environment: Node, create-react-app, Webpack
+1. Elements and Components(Props)
+2. State and Lifecycle
+3. Thinking in React
+4. Examples (x2)
+
+
+Top things we didn't cover:
+1. Events and Forms
+2. Lists and Keys
+3. Conditional Rendering
